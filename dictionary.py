@@ -10,8 +10,8 @@ print(d)
 d["nama"]="Fana" #change value
 print(d)
 
-#for x in d:
-    #print(d)
+for x in d:
+    print(d)
 
 d = []
 
