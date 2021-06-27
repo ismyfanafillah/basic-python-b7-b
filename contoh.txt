@@ -1,1 +1,3 @@
 ini adalah append write
+ini adalah append write
+ini adalah append write

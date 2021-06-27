@@ -1,6 +1,6 @@
 #modules
-#import example
-#example.nama("Ismy")
+import example
+example.nama("Ismy")
 
 #modules math
 
@@ -15,8 +15,3 @@
 import datetime
 tanggal = datetime.datetime.now()
 print(tanggal)
-
-import datetime
-tanggal = datetime.date.now()
-print(tanggal)
-
